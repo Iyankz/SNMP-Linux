@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "----------------------------------------------------"
-echo " START INSTALL SNMP Linux Ubuntun "
+echo " START INSTALL SNMP Linux Ubuntu "
 echo "----------------------------------------------------"
 echo ""
 echo "----------------------------------------------------"
