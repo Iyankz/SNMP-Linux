@@ -35,7 +35,7 @@ echo "----------------------------------------------------"
 wget --no-check-certificate https://raw.githubusercontent.com/Iyankz/SNMP-Linux/refs/heads/main/snmpd.conf -P /etc/snmp/
 
 echo "----------------------------------------------------"
-echo "Restart bind9"
+echo "Restart snmpd"
 echo "----------------------------------------------------"
 systemctl restart snmpd.service 
 
