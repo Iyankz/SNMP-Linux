@@ -27,7 +27,7 @@ echo "----------------------------------------------------"
 echo "backup snmpd"
 echo "----------------------------------------------------"
 rm -rf /etc/snmp/snmpd.conf.bak
-mv /etc/snmp/snmpd/conf /etc/snmp/snmpd.conf.bak
+mv /etc/snmp/snmpd.conf /etc/snmp/snmpd.conf.bak
 
 echo "----------------------------------------------------"
 echo "download snmpd.conf"
